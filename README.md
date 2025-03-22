@@ -4,7 +4,7 @@
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-repo/laravel-task-manager.git
+   git clone https://github.com/elvisburrniku/laravel-task-manager.git
    cd laravel-task-manager
    ```
 
